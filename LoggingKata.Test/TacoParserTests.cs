@@ -6,7 +6,7 @@ namespace LoggingKata.Test
     public class TacoParserTests
     {
         [Fact]
-        public void ShouldDoSomething()
+        public void Parse()
         {
             // TODO: Complete Something, if anything
 
